@@ -1,4 +1,4 @@
-👋 Hey, I'm **Oleksii** — I help brands rank on Google and show up in AI answers. SEO Specialist at [SE Ranking](https://seranking.com). 9 years in SEO; on the side I build the tools I wish existed, from Claude MCP servers to Chrome extensions.
+👋 Hey, I'm **Oleksii** — I help brands rank on Google and show up in AI answers. SEO Specialist at [SE Ranking](https://seranking.com). 9 years in SEO; on the side I build the tools I wish existed, from MCP servers and Chrome extensions to small free SEO/AEO tools.
 
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
