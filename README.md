@@ -1,4 +1,4 @@
-👋 Hey, I'm Oleksii - SEO Specialist at [SE Ranking](https://seranking.com/) with 9 years in search. I build SEO automations teams run daily, test how brands get cited in AI answers, and ship focused tools: MCP servers, Chrome extensions, and 20+ client-side SEO utilities at [k-o.pro](https://k-o.pro/)
+👋 Hey, I'm Oleksii - SEO Specialist at [SE Ranking](https://seranking.com/) with 9 years in search. I build SEO automations teams run daily, test how brands get cited in AI answers, and ship focused tools: MCP servers, Chrome extensions, and 20 free SEO tools at [k-o.pro](https://k-o.pro/)
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -6,7 +6,7 @@
 
 **What I'm building**
 
-• [Google Search Console MCP](https://github.com/kodotpro/gsc-mcp-remote) — remote connector for Claude with Google sign-in, 33 tools<br>• [Keep Optimized](https://chromewebstore.google.com/detail/keep-optimized-on-page-se/knpgnnckbfknckgkahmgkbbmhijabkab) — on-page SEO checker, Chrome extension (100+ users, 5.0★)<br>• [seranking/seo-skills](https://github.com/seranking/seo-skills) — curated Claude skills for SEO teams (170+★)<br>• [k-o.pro/tools](https://k-o.pro/tools) — 20+ free client-side tools
+• [Google Search Console MCP](https://github.com/kodotpro/gsc-mcp-remote) — remote connector for Claude with Google sign-in, 33 tools<br>• [Keep Optimized](https://chromewebstore.google.com/detail/keep-optimized-on-page-se/knpgnnckbfknckgkahmgkbbmhijabkab) — on-page SEO checker, Chrome extension (100+ users, 5.0★)<br>• [seranking/seo-skills](https://github.com/seranking/seo-skills) — curated Claude skills for SEO teams (180+★)<br>• [k-o.pro/tools](https://k-o.pro/tools) — 20 free SEO tools
 
 </td>
 <td width="50%" valign="top">
