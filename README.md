@@ -14,7 +14,7 @@
 **Latest from the blog**
 
 <!-- BLOG-POST-LIST:START -->
-• [How to build a Chrome extension people actually use](https://k-o.pro/posts/how-to-build-a-chrome-extension) - Jul 27, 2026<br>• [X-Robots-Tag: what it is and how to use it correctly](https://k-o.pro/posts/x-robots-tag) - Jul 21, 2026<br>• [Discovered currently not indexed: what it means and how to fix it](https://k-o.pro/posts/discovered-currently-not-indexed) - Jun 30, 2026<br>• [AEO vs SEO: What&#39;s the Difference and How to Measure Both](https://k-o.pro/posts/aeo-vs-seo) - Jun 25, 2026<br>
+• [How to Automate a Content Audit and Refresh With Claude](https://k-o.pro/posts/automate-content-audit-refresh) - Oct 23, 2026<br>• [How to Build a Chrome Extension: Steps, Permissions and Publishing](https://k-o.pro/posts/how-to-build-a-chrome-extension) - Sep 14, 2026<br>• [X-Robots-Tag: Syntax, Server Configs and How to Debug a Hidden Noindex](https://k-o.pro/posts/x-robots-tag) - Aug 11, 2026<br>• [Discovered Currently Not Indexed: Meaning, Causes and How to Fix It](https://k-o.pro/posts/discovered-currently-not-indexed) - Jun 30, 2026<br>
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://k-o.pro/blog)
