@@ -1,15 +1,15 @@
-👋 Hey, I'm **Oleksii** — I help brands rank on Google and show up in AI answers. SEO Specialist at [SE Ranking](https://seranking.com). 9 years in SEO; on the side I build the tools I wish existed, from MCP servers and Chrome extensions to small free SEO/AEO tools.
+👋 Hey, I'm Oleksii - SEO Specialist at [SE Ranking](https://seranking.com/) with 9 years in search. I build SEO automations teams run daily, test how brands get cited in AI answers, and ship focused tools: MCP servers, Chrome extensions, and 20+ client-side SEO utilities at [k-o.pro](https://k-o.pro/)
 
-<table width="1000px" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="500px" valign="top">
+<td width="50%" valign="top">
 
 **What I'm building**
 
-• [Google Search Console MCP](https://github.com/kodotpro/gsc-mcp-remote) — connect GSC to Claude, 33 tools, every property<br>• [Keep Optimized](https://chromewebstore.google.com/detail/keep-optimized-on-page-se/knpgnnckbfknckgkahmgkbbmhijabkab) — on-page SEO audit, Chrome extension<br>• [seranking/seo-skills](https://github.com/seranking/seo-skills) — Claude Skills for SEO teams, 139★, I'm one of the contributors<br>• [k-o.pro/projects](https://k-o.pro/projects) — 20+ free SEO tools: schema, robots.txt, llms.txt, sitemaps
+• [Google Search Console MCP](https://github.com/kodotpro/gsc-mcp-remote) — remote connector for Claude with Google sign-in, 33 tools<br>• [Keep Optimized](https://chromewebstore.google.com/detail/keep-optimized-on-page-se/knpgnnckbfknckgkahmgkbbmhijabkab) — on-page SEO checker, Chrome extension (100+ users, 5.0★)<br>• [seranking/seo-skills](https://github.com/seranking/seo-skills) — curated Claude skills for SEO teams (170+★)<br>• [k-o.pro/tools](https://k-o.pro/tools) — 20+ free client-side tools
 
 </td>
-<td width="500px" valign="top">
+<td width="50%" valign="top">
 
 **Latest from the blog**
 
@@ -22,3 +22,7 @@
 </td>
 </tr>
 </table>
+
+---
+
+**Connect:** [k-o.pro](https://k-o.pro/) · [LinkedIn](https://www.linkedin.com/in/kodotpro/) · [Telegram](https://t.me/kodotpro) · [hi@k-o.pro](mailto:hi@k-o.pro)
