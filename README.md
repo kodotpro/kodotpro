@@ -25,4 +25,4 @@
 
 ---
 
-**Connect:** [k-o.pro](https://k-o.pro/) · [LinkedIn](https://www.linkedin.com/in/kodotpro/) · [Telegram](https://t.me/kodotpro) · [hi@k-o.pro](mailto:hi@k-o.pro)
+**Connect:** [Website](https://k-o.pro/) · [LinkedIn](https://www.linkedin.com/in/kodotpro/) · [X](https://x.com/kodotpro) · [Mastodon](https://mastodon.social/@kodotpro) · [Telegram](https://t.me/kodotpro) · [hi@k-o.pro](mailto:hi@k-o.pro)
